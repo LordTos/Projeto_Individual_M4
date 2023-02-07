@@ -1,7 +1,7 @@
 # Projeto_Individual_M4
 
 
-##Sobre o projeto
+## Sobre o projeto
 A proposta do projeto foi criar um modelo de banco de dados fictício para o sistema de acompanhamento da Resilia.
 
 Nessa modelagem temos 3 entidades já existentes ('cursos', 'turmas' e 'alunos'). Além de planejar e elaborador o banco de dados.
